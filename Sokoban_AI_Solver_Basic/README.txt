@@ -21,7 +21,7 @@
 
 +=========================  Lưu ý khi chạy game  =========================+
 | 1. Một số testcase có thể lâu. Trong khi chúng đang giải, nếu thầy muốn |
-|    thoát ra để chuyển sang chạy map khác, thầy sẽ phải tắt chương trình |
+|    thoát ra để chuyển sang chạy map khác, cô sẽ phải tắt chương trình |
 |    và mở lại như hướng dẫn trên.                                        |
 | 2. Ngoài ra thời gian thầy sẽ đợi tối đa cho mỗi map là 30 phút vì 30   |
 |    phút là timeout nhóm em cài đặt cho game                             |
